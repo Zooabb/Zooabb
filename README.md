@@ -1,10 +1,5 @@
-- 👋 Hi, I’m @Zooabb
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-Zooabb/Zooabb is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 Bonjour moi c'est Zooa @Zooabb
+- 👀 J'ai 16 ans
+- 🌱 Je dev en HTLM C++ LUA
+- 💞️ tout se qu'il sera sur mon compte sera 100% réel
+- 📫 >Zooa🌱#9999   Nzoo95 🧃#0002
