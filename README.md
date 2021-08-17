@@ -1,5 +1,5 @@
 - 👋 Bonjour moi c'est Zooa @Zooabb
-- 👀 J'ai 16 ans
+- 👀 J'ai 18 ans
 - 🌱 Je dev en HTLM C++ LUA
 - 💞️ tout se qu'il sera sur mon compte sera 100% réel
 - 📫 >Zooa🌱#9999   Nzoo95 🧃#0002
